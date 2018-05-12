@@ -23,8 +23,8 @@ creator:
     - Nogueira Pessoa, Fernando Antonio
     - Pessoa, Fernando António Nogueira
     - Pacheco, C.
-    birthdate: &id001 1888
-    deathdate: &id002 1935
+    birthdate: 1888
+    deathdate: 1935
     gutenberg_agent_id: '9005'
     url: http://www.gutenberg.org/2009/agents/9005
     wikipedia:
@@ -33,7 +33,7 @@ creator:
     - http://en.wikipedia.org/wiki/Fernando_Pessoa
   - agent_name: Montalvor, Luís de
     alias: Montalvor, Luis de
-    birthdate: &id003 1891
+    birthdate: 1891
     deathdate: 1947
     gutenberg_agent_id: '25946'
     url: http://www.gutenberg.org/2009/agents/25946
@@ -47,8 +47,8 @@ creator:
     aliases:
     - Campos, Álvaro de
     - De Campos, Alvaro
-    birthdate: *id001
-    deathdate: *id002
+    birthdate: 1888
+    deathdate: 1935
     gutenberg_agent_id: '26230'
     url: http://www.gutenberg.org/2009/agents/26230
     wikipedia:
@@ -81,7 +81,7 @@ creator:
     - http://pt.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
     - http://en.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
   - agent_name: Cisneiros, Violante
-    birthdate: *id003
+    birthdate: 1891
     deathdate: 1971
     gutenberg_agent_id: '26232'
     url: http://www.gutenberg.org/2009/agents/26232
@@ -93,6 +93,8 @@ creator:
     gutenberg_agent_id: '26227'
     url: http://www.gutenberg.org/2009/agents/26227
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23621#Orpheu-N-2--13-Revista-Trimestral-de-Literatura
 edition_note: Ano I--1915 N.º 2 Abril-Maio-Junho
 gutenberg_bookshelf: PT Periódicos
 gutenberg_issued: '2007-11-25'
