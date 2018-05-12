@@ -1,0 +1,121 @@
+_repo: Orpheu-N-2--13-Revista-Trimestral-de-Literatura_23621
+_version: 0.1.0
+alternative_title: "Orfeu Nº2\r\nRevista Trimestral de Literatura"
+contributor:
+  illustrator:
+    agent_name: Santa-Rita, Guilherme Augusto Cau da Costa
+    alias: Pintor, Santa-Rita
+    birthdate: 1889
+    deathdate: 1918
+    gutenberg_agent_id: '25949'
+    url: http://www.gutenberg.org/2009/agents/25949
+    wikipedia: http://pt.wikipedia.org/wiki/Guilherme_de_Santa-Rita
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Pessoa, Fernando
+    aliases:
+    - Pessoa, Fernando Antonio Nogueira
+    - Seabra Pessôa, Fernando António Nogueira de
+    - Reis, Ricardo
+    - Nogueira Pessoa, Fernando Antonio
+    - Pessoa, Fernando António Nogueira
+    - Pacheco, C.
+    birthdate: &id001 1888
+    deathdate: &id002 1935
+    gutenberg_agent_id: '9005'
+    url: http://www.gutenberg.org/2009/agents/9005
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/26230
+    - http://pt.wikipedia.org/wiki/Fernando_Pessoa
+    - http://en.wikipedia.org/wiki/Fernando_Pessoa
+  - agent_name: Montalvor, Luís de
+    alias: Montalvor, Luis de
+    birthdate: &id003 1891
+    deathdate: 1947
+    gutenberg_agent_id: '25946'
+    url: http://www.gutenberg.org/2009/agents/25946
+    wikipedia: http://pt.wikipedia.org/wiki/Luis_de_Montalvor
+  - agent_name: Leal, Raul de Oliveira Sousa
+    birthdate: 1886
+    deathdate: 1964
+    gutenberg_agent_id: '26233'
+    url: http://www.gutenberg.org/2009/agents/26233
+  - agent_name: Campos, Alvaro de
+    aliases:
+    - Campos, Álvaro de
+    - De Campos, Alvaro
+    birthdate: *id001
+    deathdate: *id002
+    gutenberg_agent_id: '26230'
+    url: http://www.gutenberg.org/2009/agents/26230
+    wikipedia:
+    - http://en.wikipedia.org/wiki/%C3%81lvaro_de_Campos
+    - http://pt.wikipedia.org/wiki/%C3%81lvaro_de_Campos
+    - http://www.gutenberg.org/ebooks/author/9005
+  - agent_name: Guimarães, Eduardo
+    alias: Guimaraes, Eduardo
+    birthdate: 1892
+    deathdate: 1928
+    gutenberg_agent_id: '26234'
+    url: http://www.gutenberg.org/2009/agents/26234
+  - agent_name: Lima, Ângelo Vaz Pinto Azevedo Coutinho de
+    alias: Lima, Angelo Vaz Pinto Azevedo Coutinho de
+    birthdate: 1872
+    deathdate: 1921
+    gutenberg_agent_id: '25950'
+    url: http://www.gutenberg.org/2009/agents/25950
+    wikipedia: http://pt.wikipedia.org/wiki/%C3%82ngelo_de_Lima
+  - agent_name: Sá-Carneiro, Mário de
+    aliases:
+    - Sá Carneiro, Mário
+    - Sa-Carneiro, Mario de
+    - Sá Carneiro, Mário de
+    birthdate: 1890
+    deathdate: 1916
+    gutenberg_agent_id: '24897'
+    url: http://www.gutenberg.org/2009/agents/24897
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
+    - http://en.wikipedia.org/wiki/M%C3%A1rio_de_S%C3%A1-Carneiro
+  - agent_name: Cisneiros, Violante
+    birthdate: *id003
+    deathdate: 1971
+    gutenberg_agent_id: '26232'
+    url: http://www.gutenberg.org/2009/agents/26232
+  editor:
+    agent_name: Ferro, António Joaquim Tavares
+    alias: Ferro, Antonio Joaquim Tavares
+    birthdate: 1895
+    deathdate: 1956
+    gutenberg_agent_id: '26227'
+    url: http://www.gutenberg.org/2009/agents/26227
+description: ''
+edition_note: Ano I--1915 N.º 2 Abril-Maio-Junho
+gutenberg_bookshelf: PT Periódicos
+gutenberg_issued: '2007-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23621'
+language: pt
+language_note: This ebook uses a beginning of the 20th century spelling
+production_note: Produced by Vasco Salgado
+publication_note: "Lisboa:\r\nEditor: Antonio Ferro\r\nRedacção: 190, Rua do Ouro--Livraria\
+  \ Brazileira\r\nOficinas: Tipografia do Comercio, 10, Rua da Oliveira, ao Carmo--Telefone\
+  \ 2724\r\n1935"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese literature -- Periodicals'
+- !lcsh 'Brazilian literature -- Periodicals'
+tableOfContents: "Angelo de Lima -- Poemas Inéditos\r\nMario de Sá\x81-Carneiro --\
+  \ Poemas sem Suporte\r\nEduardo Guimaraens -- Poemas\r\nRaul Leal -- Atelier (novela\
+  \ vertígica)\r\nViolante de Cysneiros (?) -- Poemas\r\nAlvaro de Campos -- Ode Marítima\r\
+  \nLuí\x8Ds de Montalvôr -- Narciso (poema)\r\nFernando Pessôa -- Chuva Oblíqua (poemas\
+  \ interseccionistas)"
+title: "Orpheu Nº2\r\nRevista Trimestral de Literatura"
+url: http://www.gutenberg.org/ebooks/23621
